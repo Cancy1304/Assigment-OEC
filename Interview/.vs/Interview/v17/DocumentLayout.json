@@ -1,0 +1,390 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OEC_Assignment\\Interview\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OEC_Assignment\\Interview\\RL.Backend\\Controllers\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RL.Backend\\Controllers\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\OEC_Int\\Interview\\RL.Data\\RL.Data.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OEC_Assignment\\Interview\\RL.Backend\\Models\\UserModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RL.Backend\\Models\\UserModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OEC_Assignment\\Interview\\RL.Backend\\Commands\\UserPlanProcedureCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RL.Backend\\Commands\\UserPlanProcedureCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OEC_Assignment\\Interview\\RL.Backend\\Commands\\CreatePlanCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RL.Backend\\Commands\\CreatePlanCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OEC_Assignment\\Interview\\RL.Backend\\Commands\\AddProcedureToPlanCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RL.Backend\\Commands\\AddProcedureToPlanCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OEC_Assignment\\Interview\\RL.Backend\\Models\\ApiResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RL.Backend\\Models\\ApiResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OEC_Assignment\\Interview\\RL.Backend\\Commands\\Handlers\\Users\\UserPlanProcedureCommandHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RL.Backend\\Commands\\Handlers\\Users\\UserPlanProcedureCommandHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OEC_Assignment\\Interview\\RL.Backend\\Commands\\Handlers\\Plans\\AddProcedureToPlanCommandHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RL.Backend\\Commands\\Handlers\\Plans\\AddProcedureToPlanCommandHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OEC_Assignment\\Interview\\RL.Backend\\Controllers\\PlanController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RL.Backend\\Controllers\\PlanController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OEC_Assignment\\Interview\\RL.Backend\\EnableQueryFiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RL.Backend\\EnableQueryFiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OEC_Assignment\\Interview\\RL.Backend\\Controllers\\ProceduresController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RL.Backend\\Controllers\\ProceduresController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OEC_Assignment\\Interview\\RL.Backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RL.Backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OEC_Assignment\\Interview\\RL.Data\\Migrations\\20240619085626_InitialCreate.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RL.Data\\Migrations\\20240619085626_InitialCreate.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OEC_Assignment\\Interview\\RL.Data\\RLContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RL.Data\\RLContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OEC_Assignment\\Interview\\RL.Data\\Migrations\\20240619085626_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RL.Data\\Migrations\\20240619085626_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OEC_Assignment\\Interview\\RL.Backend\\Controllers\\PlanProcedureController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RL.Backend\\Controllers\\PlanProcedureController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OEC_Assignment\\Interview\\RL.Backend\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RL.Backend\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OEC_Assignment\\Interview\\RL.Backend\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RL.Backend\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OEC_Assignment\\Interview\\RL.Backend.UnitTests\\AddProcedureToPlanTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RL.Backend.UnitTests\\AddProcedureToPlanTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OEC_Assignment\\Interview\\RL.Backend.UnitTests\\Usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RL.Backend.UnitTests\\Usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OEC_Assignment\\Interview\\RL.Backend.UnitTests\\DbContextHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RL.Backend.UnitTests\\DbContextHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OEC_Assignment\\Interview\\RL.Data\\Migrations\\RLContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RL.Data\\Migrations\\RLContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "D:\\OEC_Assignment\\Interview\\RL.Backend\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "RL.Backend\\Models\\UserModel.cs",
+              "ToolTip": "D:\\OEC_Assignment\\Interview\\RL.Backend\\Models\\UserModel.cs",
+              "RelativeToolTip": "RL.Backend\\Models\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:02:40.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserPlanProcedureCommand.cs",
+              "DocumentMoniker": "D:\\OEC_Assignment\\Interview\\RL.Backend\\Commands\\UserPlanProcedureCommand.cs",
+              "RelativeDocumentMoniker": "RL.Backend\\Commands\\UserPlanProcedureCommand.cs",
+              "ToolTip": "D:\\OEC_Assignment\\Interview\\RL.Backend\\Commands\\UserPlanProcedureCommand.cs",
+              "RelativeToolTip": "RL.Backend\\Commands\\UserPlanProcedureCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:02:27.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreatePlanCommand.cs",
+              "DocumentMoniker": "D:\\OEC_Assignment\\Interview\\RL.Backend\\Commands\\CreatePlanCommand.cs",
+              "RelativeDocumentMoniker": "RL.Backend\\Commands\\CreatePlanCommand.cs",
+              "ToolTip": "D:\\OEC_Assignment\\Interview\\RL.Backend\\Commands\\CreatePlanCommand.cs",
+              "RelativeToolTip": "RL.Backend\\Commands\\CreatePlanCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T06:09:07.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddProcedureToPlanCommand.cs",
+              "DocumentMoniker": "D:\\OEC_Assignment\\Interview\\RL.Backend\\Commands\\AddProcedureToPlanCommand.cs",
+              "RelativeDocumentMoniker": "RL.Backend\\Commands\\AddProcedureToPlanCommand.cs",
+              "ToolTip": "D:\\OEC_Assignment\\Interview\\RL.Backend\\Commands\\AddProcedureToPlanCommand.cs",
+              "RelativeToolTip": "RL.Backend\\Commands\\AddProcedureToPlanCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T06:06:03.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "D:\\OEC_Assignment\\Interview\\RL.Backend\\Models\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "RL.Backend\\Models\\ApiResponse.cs",
+              "ToolTip": "D:\\OEC_Assignment\\Interview\\RL.Backend\\Models\\ApiResponse.cs",
+              "RelativeToolTip": "RL.Backend\\Models\\ApiResponse.cs",
+              "ViewState": "AQIAABYAAAAAzczMzMwUwCcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T06:15:32.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\OEC_Assignment\\Interview\\RL.Backend\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "RL.Backend\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\OEC_Assignment\\Interview\\RL.Backend\\Controllers\\UserController.cs",
+              "RelativeToolTip": "RL.Backend\\Controllers\\UserController.cs",
+              "ViewState": "AQIAACkAAACgZmZmZmYgwCYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T06:18:12.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserPlanProcedureCommandHandler.cs",
+              "DocumentMoniker": "D:\\OEC_Assignment\\Interview\\RL.Backend\\Commands\\Handlers\\Users\\UserPlanProcedureCommandHandler.cs",
+              "RelativeDocumentMoniker": "RL.Backend\\Commands\\Handlers\\Users\\UserPlanProcedureCommandHandler.cs",
+              "ToolTip": "D:\\OEC_Assignment\\Interview\\RL.Backend\\Commands\\Handlers\\Users\\UserPlanProcedureCommandHandler.cs",
+              "RelativeToolTip": "RL.Backend\\Commands\\Handlers\\Users\\UserPlanProcedureCommandHandler.cs",
+              "ViewState": "AQIAADUAAAAAzczMzMwuwDkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T06:14:23.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddProcedureToPlanCommandHandler.cs",
+              "DocumentMoniker": "D:\\OEC_Assignment\\Interview\\RL.Backend\\Commands\\Handlers\\Plans\\AddProcedureToPlanCommandHandler.cs",
+              "RelativeDocumentMoniker": "RL.Backend\\Commands\\Handlers\\Plans\\AddProcedureToPlanCommandHandler.cs",
+              "ToolTip": "D:\\OEC_Assignment\\Interview\\RL.Backend\\Commands\\Handlers\\Plans\\AddProcedureToPlanCommandHandler.cs",
+              "RelativeToolTip": "RL.Backend\\Commands\\Handlers\\Plans\\AddProcedureToPlanCommandHandler.cs",
+              "ViewState": "AQIAACEAAABAMzMzMzMwwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T06:11:41.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlanController.cs",
+              "DocumentMoniker": "D:\\OEC_Assignment\\Interview\\RL.Backend\\Controllers\\PlanController.cs",
+              "RelativeDocumentMoniker": "RL.Backend\\Controllers\\PlanController.cs",
+              "ToolTip": "D:\\OEC_Assignment\\Interview\\RL.Backend\\Controllers\\PlanController.cs",
+              "RelativeToolTip": "RL.Backend\\Controllers\\PlanController.cs",
+              "ViewState": "AQIAACAAAACAmZmZmZkpwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T06:23:04.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EnableQueryFiler.cs",
+              "DocumentMoniker": "D:\\OEC_Assignment\\Interview\\RL.Backend\\EnableQueryFiler.cs",
+              "RelativeDocumentMoniker": "RL.Backend\\EnableQueryFiler.cs",
+              "ToolTip": "D:\\OEC_Assignment\\Interview\\RL.Backend\\EnableQueryFiler.cs",
+              "RelativeToolTip": "RL.Backend\\EnableQueryFiler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T08:41:31.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProceduresController.cs",
+              "DocumentMoniker": "D:\\OEC_Assignment\\Interview\\RL.Backend\\Controllers\\ProceduresController.cs",
+              "RelativeDocumentMoniker": "RL.Backend\\Controllers\\ProceduresController.cs",
+              "ToolTip": "D:\\OEC_Assignment\\Interview\\RL.Backend\\Controllers\\ProceduresController.cs",
+              "RelativeToolTip": "RL.Backend\\Controllers\\ProceduresController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T08:41:38.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\OEC_Assignment\\Interview\\RL.Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "RL.Backend\\appsettings.json",
+              "ToolTip": "D:\\OEC_Assignment\\Interview\\RL.Backend\\appsettings.json",
+              "RelativeToolTip": "RL.Backend\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-19T09:04:58.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240619085626_InitialCreate.Designer.cs",
+              "DocumentMoniker": "D:\\OEC_Assignment\\Interview\\RL.Data\\Migrations\\20240619085626_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "RL.Data\\Migrations\\20240619085626_InitialCreate.Designer.cs",
+              "ToolTip": "D:\\OEC_Assignment\\Interview\\RL.Data\\Migrations\\20240619085626_InitialCreate.Designer.cs",
+              "RelativeToolTip": "RL.Data\\Migrations\\20240619085626_InitialCreate.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:45:22.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RLContext.cs",
+              "DocumentMoniker": "D:\\OEC_Assignment\\Interview\\RL.Data\\RLContext.cs",
+              "RelativeDocumentMoniker": "RL.Data\\RLContext.cs",
+              "ToolTip": "D:\\OEC_Assignment\\Interview\\RL.Data\\RLContext.cs",
+              "RelativeToolTip": "RL.Data\\RLContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T06:00:51.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240619085626_InitialCreate.cs",
+              "DocumentMoniker": "D:\\OEC_Assignment\\Interview\\RL.Data\\Migrations\\20240619085626_InitialCreate.cs",
+              "RelativeDocumentMoniker": "RL.Data\\Migrations\\20240619085626_InitialCreate.cs",
+              "ToolTip": "D:\\OEC_Assignment\\Interview\\RL.Data\\Migrations\\20240619085626_InitialCreate.cs",
+              "RelativeToolTip": "RL.Data\\Migrations\\20240619085626_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:45:20.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PlanProcedureController.cs",
+              "DocumentMoniker": "D:\\OEC_Assignment\\Interview\\RL.Backend\\Controllers\\PlanProcedureController.cs",
+              "RelativeDocumentMoniker": "RL.Backend\\Controllers\\PlanProcedureController.cs",
+              "ToolTip": "D:\\OEC_Assignment\\Interview\\RL.Backend\\Controllers\\PlanProcedureController.cs",
+              "RelativeToolTip": "RL.Backend\\Controllers\\PlanProcedureController.cs",
+              "ViewState": "AQIAAAkAAABgZmZmZmYkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T06:22:57.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\OEC_Assignment\\Interview\\RL.Backend\\Dockerfile",
+              "RelativeDocumentMoniker": "RL.Backend\\Dockerfile",
+              "ToolTip": "D:\\OEC_Assignment\\Interview\\RL.Backend\\Dockerfile",
+              "RelativeToolTip": "RL.Backend\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-19T06:05:03.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OEC_Assignment\\Interview\\RL.Backend\\Program.cs",
+              "RelativeDocumentMoniker": "RL.Backend\\Program.cs",
+              "ToolTip": "D:\\OEC_Assignment\\Interview\\RL.Backend\\Program.cs",
+              "RelativeToolTip": "RL.Backend\\Program.cs",
+              "ViewState": "AQIAAA8AAACAmZmZmZkRwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T06:04:58.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddProcedureToPlanTests.cs",
+              "DocumentMoniker": "D:\\OEC_Assignment\\Interview\\RL.Backend.UnitTests\\AddProcedureToPlanTests.cs",
+              "RelativeDocumentMoniker": "RL.Backend.UnitTests\\AddProcedureToPlanTests.cs",
+              "ToolTip": "D:\\OEC_Assignment\\Interview\\RL.Backend.UnitTests\\AddProcedureToPlanTests.cs",
+              "RelativeToolTip": "RL.Backend.UnitTests\\AddProcedureToPlanTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T06:04:52.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Usings.cs",
+              "DocumentMoniker": "D:\\OEC_Assignment\\Interview\\RL.Backend.UnitTests\\Usings.cs",
+              "RelativeDocumentMoniker": "RL.Backend.UnitTests\\Usings.cs",
+              "ToolTip": "D:\\OEC_Assignment\\Interview\\RL.Backend.UnitTests\\Usings.cs",
+              "RelativeToolTip": "RL.Backend.UnitTests\\Usings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T06:04:50.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DbContextHelper.cs",
+              "DocumentMoniker": "D:\\OEC_Assignment\\Interview\\RL.Backend.UnitTests\\DbContextHelper.cs",
+              "RelativeDocumentMoniker": "RL.Backend.UnitTests\\DbContextHelper.cs",
+              "ToolTip": "D:\\OEC_Assignment\\Interview\\RL.Backend.UnitTests\\DbContextHelper.cs",
+              "RelativeToolTip": "RL.Backend.UnitTests\\DbContextHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T06:04:44.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RLContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\OEC_Assignment\\Interview\\RL.Data\\Migrations\\RLContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "RL.Data\\Migrations\\RLContextModelSnapshot.cs",
+              "ToolTip": "D:\\OEC_Assignment\\Interview\\RL.Data\\Migrations\\RLContextModelSnapshot.cs",
+              "RelativeToolTip": "RL.Data\\Migrations\\RLContextModelSnapshot.cs",
+              "ViewState": "AQIAABwAAAAAZmZmZmYswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T06:04:12.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RL.Data.csproj.user",
+              "DocumentMoniker": "C:\\Users\\USER\\OEC_Int\\Interview\\RL.Data\\RL.Data.csproj.user",
+              "ToolTip": "C:\\Users\\USER\\OEC_Int\\Interview\\RL.Data\\RL.Data.csproj.user",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2024-06-19T05:58:59.55Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
